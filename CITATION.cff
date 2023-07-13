@@ -1,0 +1,9 @@
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Davide"
+  given-names: "Sclosa"
+  orcid: "https://orcid.org/0000-0003-0806-2591"
+title: "Kuramoto Networks with Infinitely Many Stable Equilibria"
+version: 1.0.0
+date-released: 2023-07-13 
+url: "https://github.com/DSclosa/kuramoto_networks"
